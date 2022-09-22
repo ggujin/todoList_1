@@ -1,0 +1,26 @@
+.todoList {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.listItem {
+  display: flex;
+  align-items: center;
+
+  .checkWrap {
+    padding: 10px;
+  }
+  .content {
+    font-size: 30px;
+  }
+  .delete {
+    margin-left: auto;
+  }
+}
+
+.completed {
+  color: #ccc;
+  text-decoration: line-through;
+}
+
