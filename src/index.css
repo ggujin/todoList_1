@@ -2,3 +2,11 @@ body {
   width: 600px;
   margin: 0 auto;
 }
+
+#root {
+  position: relative;
+  text-align: center;
+  height: 3000px;
+  width: 550px;
+  margin: 0 auto;
+}
